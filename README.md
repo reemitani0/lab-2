@@ -31,7 +31,7 @@ The goal is to understand power usage behavior and prepare the dataset for predi
   > ![Line Plot](path/to/lineplot.png)
 
 - distribution plot: Distribution of Global Active Power  
-  > ![Histogram](path/to/histogram.png)
+  > ![Histogram](https://github.com/reemitani0/lab-2/blob/main/distribution%20plot%20lab2.png)
 
 - Boxplot: Voltage Variation  
   > ![Boxplot](https://github.com/reemitani0/lab-2/blob/main/boxplot%20lab2.png)
