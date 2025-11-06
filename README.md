@@ -27,10 +27,10 @@ The goal is to understand power usage behavior and prepare the dataset for predi
 ---
 
 ## 📊 Results (Insert Screenshots Below)
-- Line Plot: Global Active Power Over Time  
+- histogram: Global Active Power Over Time  
   > ![Line Plot](path/to/lineplot.png)
 
-- Histogram: Distribution of Global Active Power  
+- distribution plot: Distribution of Global Active Power  
   > ![Histogram](path/to/histogram.png)
 
 - Boxplot: Voltage Variation  
