@@ -34,7 +34,7 @@ The goal is to understand power usage behavior and prepare the dataset for predi
   > ![Histogram](path/to/histogram.png)
 
 - Boxplot: Voltage Variation  
-  > ![Boxplot](path/to/boxplot.png)
+  > ![Boxplot](https://github.com/reemitani0/lab-2/blob/main/boxplot%20lab2.png)
 
 - Daily Average Trend  
   > ![Trend](path/to/trend.png)
