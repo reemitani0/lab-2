@@ -37,7 +37,7 @@ The goal is to understand power usage behavior and prepare the dataset for predi
   > ![Boxplot](https://github.com/reemitani0/lab-2/blob/main/boxplot%20lab2.png)
 
 - Daily Average Trend  
-  > ![Trend](path/to/trend.png)
+  > ![Trend](https://github.com/reemitani0/lab-2/blob/main/image_2025-11-06_150423692.png)
 
 ---
 
