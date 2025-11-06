@@ -28,7 +28,7 @@ The goal is to understand power usage behavior and prepare the dataset for predi
 
 ## 📊 Results (Insert Screenshots Below)
 - histogram: Global Active Power Over Time  
-  > ![Line Plot](path/to/lineplot.png)
+  > ![Line Plot](https://github.com/reemitani0/lab-2/blob/main/histogram%20lab2.png)
 
 - distribution plot: Distribution of Global Active Power  
   > ![Histogram](https://github.com/reemitani0/lab-2/blob/main/distribution%20plot%20lab2.png)
